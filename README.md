@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Lucca Pereira Lima Rodrigues
+- 👋 Olá, me chamo Lucca Pereira Lima Rodrigues, sou estudante de Engenharia da Computação na Universidade do Estado de Minas Gerais (UEMG)
 - 👀 Ultimamente estou interessado em desenvolvimento .NET Core voltado para API's com MySQL e na linguagem de programação Python, principalmente
 na sua biblioteca skFuzzy, para criação de inteligência artifical durante desenvolvimento do meu TCC de graduação em Engenharia de Computação
 - 🌱 Estou atualmente estudando Python, .NET Core e SQL
